@@ -1,16 +1,14 @@
-## Hi there 👋
+## about me <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 
-<!--
-**cristinasevi/cristinasevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Cristina Sevi
+from: Zaragoza (Spain)
+job: Student
+languages_spoken: Spanish & English
+education: ["VET in Microcomputer Systems and Networks"]
+work_experiences: 
+  - ["API Tester", "Zaragoza", "Spain", "2024"]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+code: ["HTML", "CSS", "Javascript", "PHP", "Python"]
+currently_learning: ["C#", "C++"]
+```
