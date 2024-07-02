@@ -9,6 +9,6 @@ education: ["VET in Microcomputer Systems and Networks"]
 work_experiences: 
   - ["API Tester | Analyst & Software Designer", "Zaragoza", "Spain", "2024"]
 
-code: ["HTML", "CSS", "Javascript", "PHP", "Python"]
-currently_learning: ["C#", "C++"]
+code: ["HTML", "CSS", "Javascript", "PHP", "SQL"]
+currently_learning: ["Python"]
 ```
