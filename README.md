@@ -7,7 +7,7 @@ job: Student
 languages_spoken: Spanish & English
 education: ["VET in Microcomputer Systems and Networks"]
 work_experiences: 
-  - ["API Tester | Analyst & Software Designer", "Zaragoza", "Spain", "2024"]
+  //- ["API Tester | Analyst & Software Designer", "Zaragoza", "Spain", "2024"]
   - ["API Tester | Analyst & Software Designer, Zaragoza (Spain) - 2024"]
 
 code: ["HTML", "CSS", "Javascript", "PHP", "SQL"]
